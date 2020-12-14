@@ -1,0 +1,8 @@
+include ':libnavcompiler'
+include ':libnavannotation'
+include ':libcache'
+include ':libcommon'
+include ':libhttp'
+include ':libvpn'
+include ':app'
+rootProject.name = "24HGame"

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="colorTextWhite">#FFFFFF</color>
+    <color name="colorTextBlack">#888888</color>
+    <color name="colorBackgroud">#2d313c</color>
+    <color name="CloudBurst">#353c50</color>
+    <color name="colorBlackRock">#2e303e</color>
+    <color name="colorEbonyClay">#252c38</color>
+    <color name="color_gray2">#F4F3F4</color>
+
+    <color name="color_theme">#ff678f</color>
+    <color name="color_333">#333333</color>
+</resources>

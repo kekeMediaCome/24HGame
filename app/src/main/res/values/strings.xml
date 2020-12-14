@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">24H手游助手</string>
+
+    <string name="VPN_ADDRESS">10.0.0.2</string>
+    <string name="title_activity_main">游戏助手</string>
+    <string name="title_home">发现</string>
+    <string name="title_dashboard">加速</string>
+    <string name="title_notifications">我的</string>
+</resources>

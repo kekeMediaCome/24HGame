@@ -1,0 +1,22 @@
+{
+  "activeSize": 16,
+  "normalSize": 14,
+  "activeColor": "#FFFFFF",
+  "normalColor": "#666666",
+  "select": 1,
+  "tabGravity": -1 ,
+  "tabs": [
+    {
+      "title": "发现",
+      "index": 0,
+      "tag": "find",
+      "enable": true
+    },
+    {
+      "title": "排行榜",
+      "index": 1,
+      "tag": "rank",
+      "enable": true
+    }
+  ]
+}

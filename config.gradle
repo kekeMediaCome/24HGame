@@ -1,0 +1,24 @@
+ext {
+    android = [
+        compileSdkVersion: 29,
+        buildToolsVersion: "29.0.0",
+        minSdkVersion    : 19,
+        targetSdkVersion : 28,
+        versionCode      : 1,
+        versionName      : "1.0.0"
+    ]
+    androidxVersion = [
+        appcompat         : "1.1.0",
+        recycleviewVersion: "1.0.0",
+        annotations       : "1.1.0"
+    ]
+
+    version = [
+
+    ]
+
+    dependencies = [
+
+    ]
+
+}
